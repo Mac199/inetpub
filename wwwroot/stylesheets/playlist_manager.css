@@ -1,0 +1,65 @@
+.navbar-inner {
+  background-color: #2a3f5c; /* background color will be black for all browsers */
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+}
+
+
+body{
+	background-color: white;
+	padding-top: 60px;
+}
+
+#status {
+	text-align: center;
+	color:gray;
+	margin-top: -16px;
+
+}
+
+.grayed {
+	color:#808080;
+}
+
+#progressManager {
+	float:right;
+	width:220px;
+	padding-left: 20px;
+	margin-top:40px;
+}
+
+form {
+	margin:0;
+}
+
+#startDate, #endDate, #start_field, #end_field {
+	width:75px;
+}
+
+#dur_field {
+	width:45px;
+}
+#type_field {
+	width:75px;
+}
+
+.act {
+	width:190px;
+}
+
+#startEnd {
+	margin-bottom:24px;
+}
+
+/* IE Hack */
+#file_field {
+	width:400px;
+}
+#playlistManager {
+}
